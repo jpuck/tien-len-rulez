@@ -8,7 +8,7 @@ Tien Len uses a standard playing card deck with jokers removed. The game should 
 
 Each player is dealt 13 cards and the object of the game is to be the first to play all the cards in your hand. You do this by placing a higher value card(s) on top of your opponent’s cards. The first player to discard all 13 cards wins the game. Play as many games as your personal constitution and liver allows.
 
-The ranking of the cards is fucked because now 2’s are the highest card in the game, surpassing Aces (higher than Kings) and 3 is now the lowest card. The cards are also suited from lowest to highest: spades, clubs, diamonds, hearts. In case you’re an idiot, the 3 of spades is the lowest card in the game and the 2 of hearts is the highest.
+The ranking of the cards is fucked because now 2’s are the highest card in the game, surpassing Aces (higher than Kings) and 3 is now the lowest card. The cards are also suited from lowest to highest: spades ♠️, clubs ♣️, diamonds ♦️, hearts ♥️. In case you’re an idiot, the 3 of spades is the lowest card in the game and the 2 of hearts is the highest.
 
 The player with the lowest card dealt plays first and therefore if more than one deck is used, remove duplicate low threes. I don’t know the specifics just figure it out so that only one person can get the 3 of spades.
 
