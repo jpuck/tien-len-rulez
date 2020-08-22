@@ -4,13 +4,33 @@
 
 Brought to Fayetteville, AR by Daniel Otto who picked it up at Arkansas Governor's school in 2000, Tien Len is a popular Vietnamese card game that has a specific set of rules. These are not those rules. Presented here is a bastardized version as the original rules did not make the plane ride home. Having been played in Fayetteville for more than a decade, a special set of rules has developed that is the fuel for many rambunctious nights with friends and can be enjoyed by an unlimited number of people. (I remember a particularly ridiculous game that was played with ~50 people)
 
-Tien Len uses a standard playing card deck with jokers removed. The game should be played with 1 deck for every 4 players.  5-8 players would use 2 decks, 9-12 players would use 3 decks, and so on. It is recommended that when using multiple decks that each deck be identical as to not identify individual cards, unless you’re a poor bastard and have mismatched decks. In Tien Len, cheating is ~~encouraged~~ acceptable and it is the player’s responsibility to protect themselves from cheating by others.
+Tien Len uses a standard 52-card playing deck without jokers, and it's a [shedding game][shed], of which the object is to get rid of all your cards first. You do this by placing a higher value card(s) on top of your opponent’s cards. Play as many games as your personal constitution and liver allows.
 
-Each player is dealt 13 cards and the object of the game is to be the first to play all the cards in your hand. You do this by placing a higher value card(s) on top of your opponent’s cards. The first player to discard all 13 cards wins the game. Play as many games as your personal constitution and liver allows.
+## Setup
+
+Original gangster format is 1 deck with 4 players starting with 13 cards each. More or fewer players should use 1 deck for every 4 players. 5-8 players would use 2 decks, 9-12 players would use 3 decks, and so on. You'll have to divide and discard the remainder to make each hand the same count. It is recommended that when using multiple decks that each deck be identical as to not identify individual cards, unless you’re a poor bastard and have mismatched decks.
+
+> In Tien Len, cheating is ~~encouraged~~ acceptable and it is the player’s responsibility to protect themselves from cheating by others.
+
+### Pulling Rank
 
 The ranking of the cards is fucked because 2’s are the highest card in the game, surpassing Aces (higher than Kings) and 3 is the lowest card.
 
-Suits also have a rank order:
+1. 2 (strongest)
+2. A
+3. K
+4. Q
+5. J
+6. 10
+7. 9
+8. 8 (at least this makes sense)
+9. 7
+10. 6
+11. 5
+12. 4
+13. 3 (weakest)
+
+Suits also have a rank order, which are like rank decimals (`s/decimals/base4`):
 
 1. ♥️ hearts (strongest)
 2. ♦️ diamonds
@@ -20,6 +40,8 @@ Suits also have a rank order:
 In case you’re an idiot, the 3 of spades is the lowest card in the game and the 2 of hearts is the highest.
 
 The player with the lowest card dealt plays first and therefore if more than one deck is used, remove duplicate low threes. I don’t know the specifics just figure it out so that only one person can get the 3 of spades.
+
+Because you weren't paying attention, let's cover it again: each person is dealt about 13 cards and the first one to play all their cards wins.
 
 ## Gameplay
 
@@ -86,3 +108,5 @@ Sometimes you can get dealt a pile of crap and there’s very little chance of w
 In general, try to think about how and when your highest cards can win rounds and use the opportunity open up with either getting rid of the low shitty cards in your hand or playing in such a way that will set you up to win again. For example, assuming you have the 2 of Hearts, start with a single and know you can win because you possess the highest single card, unless someone has a bomb.
 
 You can cheat by trying to peek at other people’s cards, sneaking in extra cards into your plays, pocketing cards for future games, or flat out confuse the drunk people.
+
+[shed]:https://en.wikipedia.org/wiki/Card_game#Shedding_games
