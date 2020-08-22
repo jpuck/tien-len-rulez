@@ -107,4 +107,8 @@ In general, try to think about how and when your highest cards can win rounds an
 
 You can cheat by trying to peek at other people’s cards, sneaking in extra cards into your plays, pocketing cards for future games, or flat out confuse the drunk people.
 
+Or don't do any of this because I'm trying to game your ass by getting in your head feeding you some trap strategery.
+
+> 'cause ya basic ☝️
+
 [shed]:https://en.wikipedia.org/wiki/Card_game#Shedding_games
