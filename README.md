@@ -6,7 +6,7 @@ Brought to Fayetteville, AR by Daniel Otto who picked it up at Arkansas Governor
 
 Tien Len uses a standard playing card deck with jokers removed. The game should be played with 1 deck for every 4 players.  5-8 players would use 2 decks, 9-12 players would use 3 decks, and so on. It is recommended that when using multiple decks that each deck be identical as to not identify individual cards, unless you’re a poor bastard and have mismatched decks. In Tien Len, cheating is ~~encouraged~~ acceptable and it is the player’s responsibility to protect themselves from cheating by others.
 
-Each player is dealt 13 cards and the goal of the game is to discard all cards in your hand. You do this by placing a higher value card(s) on top of your opponent’s cards. The first player to discard all 13 cards wins the game. Play as many games as your personal constitution and liver allows.
+Each player is dealt 13 cards and the object of the game is to be the first to play all the cards in your hand. You do this by placing a higher value card(s) on top of your opponent’s cards. The first player to discard all 13 cards wins the game. Play as many games as your personal constitution and liver allows.
 
 The ranking of the cards is fucked because now 2’s are the highest card in the game, surpassing Aces (higher than Kings) and 3 is now the lowest card. The cards are also suited from lowest to highest: spades, clubs, diamonds, hearts. In case you’re an idiot, the 3 of spades is the lowest card in the game and the 2 of hearts is the highest.
 
