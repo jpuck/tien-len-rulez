@@ -67,7 +67,7 @@ Bombs can be played as an opening play. Bombs can be beaten by a higher bomb of 
 
 2’s cannot be used as part of a straight.
 
-Straights do not wrap around from Ace back to 3.
+Straights do not wrap around from Ace back to 3. e.g. K,A,2,3 is not allowed because 2's cannot be used in straights. Moreover, furthermore, similarly, K,A,3 or K,A,3,4 is stupid, so don't try.
 
 ### New Orleans Adaptation
 
