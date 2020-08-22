@@ -49,7 +49,7 @@ That first player must play the lowest card as part of their opening hand. A pla
 
 Aces are always higher than Kings, and 2’s are higher than Aces, and to make this bullshit more complicated, 2’s can’t be used in straights. So the highest straight possible ends in the Ace of Hearts (and is actually unbeatable).
 
-Once a play has been made, whatever was played sets the round. So if a double was played, only higher value doubles can beat the play. If a straight of 5 cards is played, only a higher 5 card straight with the highest card in that higher straight being higher than the highest card in the previously played straight, simple. Let’s say a 4,5,6 is played, which can be beat by any 3 card straight ending in a card higher than 6, but if it does end in a 6 it comes down to suits. A 6 of diamonds would beat a 6 of spades. (See above).
+Once a play has been made, whatever was played sets the round. So if a double was played, only higher value doubles can beat the play. If a straight of 5 cards is played, only a higher 5 card straight with the highest card in that higher straight being higher than the highest card in the previously played straight, simple. Let’s say a `4,5,6` is played, which can be beat by any 3 card straight ending in a card higher than 6, but if it does end in a 6 it comes down to suits. A 6 of diamonds would beat a 6 of spades. (See above).
 
 A player can choose to play or not, and if not they will “knock” by knocking their hand on the table, saying, “knock,” or screaming, “GOD FUCKING DAMNIT.”  Just because a player CAN beat a particular play, doesn’t mean they MUST. (This is called strategery). Once all other players at a table knock, the player that put down the previously high hand wins the round. At which point that player gets to play any single, duplicates, straights, or bombs (I know, we haven’t talked about those yet). The game continues in this fashion until a player is no longer holding any cards, at which point they are crowned the winner. Rinse and repeat.
 
@@ -57,7 +57,7 @@ A player can choose to play or not, and if not they will “knock” by knocking
 
 2’s are the highest cards in the game, trump cards. However there are two types of plays that can beat them into submission. These are called bombs and are usually played while simultaneously making some stupid sound effect.
 
-Bombs are either 4 of a kind or more (when playing with multiple decks), or a straight of pairs (5,5,6,6,7,7 or J,J,Q,Q,K,K).
+Bombs are either 4 of a kind or more (when playing with multiple decks), or a straight of pairs (`5,5,6,6,7,7` or `J,J,Q,Q,K,K`).
 
 A single 2 is beaten by a 4 of a kind, or a paired straight of 3 consecutive cards.
 
@@ -67,19 +67,19 @@ Bombs can be played as an opening play. Bombs can be beaten by a higher bomb of 
 
 2’s cannot be used as part of a straight.
 
-Straights do not wrap around from Ace back to 3. e.g. K,A,2,3 is not allowed because 2's cannot be used in straights. Moreover, furthermore, similarly, K,A,3 or K,A,3,4 is stupid, so don't try.
+Straights do not wrap around from Ace back to 3. e.g. `K,A,2,3` is not allowed because 2's cannot be used in straights. Moreover, furthermore, similarly, neither `K,A,3` nor `K,A,3,4` are intelligible, so don't try.
 
 ### New Orleans Adaptation
 
 After being introduced to New Orleans, Louisiana the alcoholics there have, of course, adapted this to a drinking game.
 
-When playing with 2 players, an object, usually a shot glass, is placed in between the two players at the side of the table. When a player wins, the shot glass moves one step towards the losing player. If the shot glass moves an additional step towards the same losing player, that loser must take a shot. This amounts to 5 “stations” on the table where if the shot glass reaches the closest station to you, because you’re a fucking loser, you must take a shot.
+When playing with 2 players, an object, usually a shot glass, is placed in between the two players at the side of the table. When a player wins, the shot glass moves one step towards the losing player. If the shot glass moves an additional step towards the same losing player, that loser must take a shot. This amounts to 5 "stations" on the table where if the shot glass reaches the closest station to you, because you’re a fucking loser, you must take a shot.
 
 When playing with more than 2 players, it must be determined who is the ultimate loser. Once the winning player discards or plays their final card to win, a new round begins with the next player clockwise to the winner. Even if this means that the next player can simply play all the cards in their hand with a legitimate play. This process continues until the ultimate loser is found. If the same player loses twice in a row, they must take a shot.
 
 If a player is caught cheating, that player has to take a shot.
 
-Typically most New Orleanians will take a “courtesy shot” anytime someone else takes a shot, because they don’t want to miss out on the fun.
+Typically most New Orleanians will take a "courtesy shot" anytime someone else takes a shot, because they don’t want to miss out on the fun.
 
 ## Strategy Guide
 
