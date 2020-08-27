@@ -1,5 +1,3 @@
-import favicon from './src/components/images/favicon/favicon-32x32.png'
-
 const config = {
   gatsby: {
     pathPrefix: '/',
@@ -8,7 +6,7 @@ const config = {
     trailingSlash: false,
   },
   header: {
-    logo: favicon,
+    logo: '',
     logoLink: '/',
     title: 'Tien Len',
     githubUrl: 'https://github.com/hasura/gatsby-gitbook-boilerplate',

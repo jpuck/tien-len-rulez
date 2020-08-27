@@ -8,6 +8,7 @@ import Loadable from 'react-loadable';
 import config from '../../config.js';
 import LoadingProvider from './mdxComponents/loading';
 import { DarkModeSwitch } from './DarkModeSwitch';
+import favicon from './images/favicon/favicon-32x32.png'
 
 const help = require('./images/help.svg');
 
@@ -99,7 +100,7 @@ const Header = ({ location, isDarkThemeActive, toggleActiveTheme }) => (
               <Link to={finalLogoLink} className={'navBarBrand'}>
                 <img
                   className={'img-responsive displayInline'}
-                  src={logo.image !== '' ? logo.image : logoImg}
+                  src={favicon}
                   alt={'logo'}
                 />
               </Link>
