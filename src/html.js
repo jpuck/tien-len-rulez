@@ -10,16 +10,14 @@ export default class HTML extends React.Component {
           <meta charSet="utf-8" />
           <meta httpEquiv="x-ua-compatible" content="ie=edge" />
           <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-          {config.siteMetadata.ogImage ? (
-            <meta property="og:image" content={config.siteMetadata.ogImage} />
-          ) : null}
-          <meta property="twitter:card" content="summary_large_image" />
-          {config.siteMetadata.ogImage ? (
-            <meta property="twitter:image" content={config.siteMetadata.ogImage} />
-          ) : null}
-          {config.siteMetadata.favicon ? (
-            <link rel="shortcut icon" type="image/svg" href={config.siteMetadata.favicon} />
-          ) : null}
+          <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+          <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+          <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+          <link rel="manifest" href="/site.webmanifest" />
+          <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5" />
+          <meta name="msapplication-TileColor" content="#ffffff" />
+          <meta name="theme-color" content="#ffffff" />
+          <title>Tien Len Rulez</title>
           <noscript key="noscript"></noscript>
           {this.props.headComponents}
         </head>
