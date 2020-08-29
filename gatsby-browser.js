@@ -7,3 +7,5 @@ export const onServiceWorkerUpdateReady = () => {
     window.location.reload()
   }
 }
+
+export const shouldUpdateScroll = () => false;
