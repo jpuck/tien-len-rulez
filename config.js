@@ -30,7 +30,10 @@ const config = {
     collapsedNav: [
       '/codeblock', // add trailing slash if enabled above
     ],
-    links: [{ text: 'Leaderboard', link: 'https://leaderboard.tienlen.org' }],
+    links: [
+      { text: 'Play', link: 'https://play.tienlen.org' },
+      { text: 'Leaderboard', link: 'https://leaderboard.tienlen.org' },
+    ],
     frontline: false,
     ignoreIndex: true,
     title: "",
