@@ -5,6 +5,37 @@ import { StaticQuery, graphql } from 'gatsby';
 import config from '../../config';
 import { Sidebar, ListItem } from './styles/Sidebar';
 
+function makeTableOfContentsListItem(item, level)
+{
+  const itemId = item.title
+    ? item.title.replace(/\s+/g, '').toLowerCase()
+    : '#';
+
+  return (
+    <ListItem key={itemId} to={`#${itemId}`} level={level}>
+      {item.title}
+    </ListItem>
+  );
+}
+
+function buildTableOfContentsRecursively(item, index, level)
+{
+  if (level instanceof Array) {
+    level = -1;
+  }
+
+  const listItems = [makeTableOfContentsListItem(item, level)]
+
+  if (!item.items) {
+    return listItems;
+  }
+
+  level++;
+  return listItems.concat(item.items.map((sub, index) => {
+    return buildTableOfContentsRecursively(sub, index, level);
+  }))
+}
+
 const SidebarLayout = ({ location }) => (
   <StaticQuery
     query={graphql`
@@ -22,12 +53,10 @@ const SidebarLayout = ({ location }) => (
       }
     `}
     render={({ allMdx }) => {
-      let navItems = [];
-
       let finalNavItems;
 
       if (allMdx.edges !== undefined && allMdx.edges.length > 0) {
-        const navItems = allMdx.edges.map((item, index) => {
+        allMdx.edges.map(item => {
           let innerItems;
 
           if (item !== undefined) {
@@ -36,17 +65,7 @@ const SidebarLayout = ({ location }) => (
               config.gatsby.pathPrefix + item.node.fields.slug === location.pathname
             ) {
               if (item.node.tableOfContents.items) {
-                innerItems = item.node.tableOfContents.items.map((innerItem, index) => {
-                  const itemId = innerItem.title
-                    ? innerItem.title.replace(/\s+/g, '').toLowerCase()
-                    : '#';
-
-                  return (
-                    <ListItem key={index} to={`#${itemId}`} level={1}>
-                      {innerItem.title}
-                    </ListItem>
-                  );
-                });
+                innerItems = item.node.tableOfContents.items.map(buildTableOfContentsRecursively);
               }
             }
           }

@@ -4,8 +4,6 @@ metaTitle: "Tien Len Fayar Rulez"
 metaDescription: "Tien Len Fayar is an interesting derivative"
 ---
 
-# Tien Len
-
 Brought to Fayetteville, AR by Daniel Otto who picked it up at Arkansas Governor's school in 2000, Tien Len is a popular Vietnamese card game that has a specific set of rules. These are not those rules. Or maybe they are; who knows really? Presented here is a likely bastardized version, as the original rules are surely hopelessly lost to the sands of time. Notwithstanding having been played in Fayetteville for more than a decade, a special set of rules has developed that is the fuel for many rambunctious nights with friends and can be enjoyed by an unlimited number of people. (I remember a particularly ridiculous game that was played with ~50 people)
 
 Tien Len uses a standard 52-card playing deck without jokers, and it's a [shedding game][shed], of which the object is to get rid of all your cards first. You do this by placing a higher value card(s) on top of your opponent’s cards. Play as many games as your personal constitution and liver allows.

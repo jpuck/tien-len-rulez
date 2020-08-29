@@ -38,11 +38,6 @@ export const Sidebar = styled('aside')`
   }
 
   .rightSideBarUL li a {
-    font-size: 12px;
-    font-weight: 500;
-    line-height: 1.5;
-    padding: 7px 24px 7px 16px;
-
     color: ${props => props.theme.colors.text};
   }
 
@@ -66,7 +61,7 @@ export const ListItem = styled(({ className, active, level, ...props }) => {
   a {
     color: #5c6975;
     text-decoration: none;
-    font-weight: ${({ level }) => (level === 0 ? 700 : 400)};
+    font-weight: ${({ level }) => (level === -1 ? 700 : 400)};
     padding: 0.45rem 0 0.45rem ${props => 2 + (props.level || 0) * 1}rem;
     display: block;
     position: relative;
