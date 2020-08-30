@@ -24,11 +24,8 @@ const config = {
   },
   sidebar: {
     forcedNavOrder: [
-      '/introduction', // add trailing slash if enabled above
-      '/codeblock',
     ],
     collapsedNav: [
-      '/codeblock', // add trailing slash if enabled above
     ],
     links: [
       { text: 'Play', link: 'https://play.tienlen.org' },
@@ -40,16 +37,16 @@ const config = {
   },
   siteMetadata: {
     title: 'Tien Len Rulez',
-    description: 'Documentation built with mdx. Powering hasura.io/learn ',
+    description: 'Documentation built with mdx. All the Tien Len Fayar things',
     ogImage: null,
     docsLocation: 'https://github.com/jpuck/tien-len-rulez/tree/main/content',
-    favicon: 'https://graphql-engine-cdn.hasura.io/img/hasura_icon_black.svg',
+    favicon: '/favicon.ico',
   },
   pwa: {
-    enabled: false, // disabling this will also remove the existing service worker.
+    enabled: true, // disabling this will also remove the existing service worker.
     manifest: {
-      name: 'Gatsby Gitbook Starter',
-      short_name: 'GitbookStarter',
+      name: 'Tien Len Rulez',
+      short_name: 'tien-len',
       start_url: '/',
       background_color: '#6b37bf',
       theme_color: '#6b37bf',
@@ -57,7 +54,7 @@ const config = {
       crossOrigin: 'use-credentials',
       icons: [
         {
-          src: 'src/pwa-512.png',
+          src: 'public/android-chrome-512x512.png',
           sizes: `512x512`,
           type: `image/png`,
         },
