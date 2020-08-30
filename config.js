@@ -35,7 +35,7 @@ const config = {
       { text: 'Leaderboard', link: 'https://leaderboard.tienlen.org' },
     ],
     frontline: false,
-    ignoreIndex: true,
+    ignoreIndex: false,
     title: "",
   },
   siteMetadata: {
