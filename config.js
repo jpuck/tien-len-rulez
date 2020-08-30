@@ -2,7 +2,7 @@ const config = {
   gatsby: {
     pathPrefix: '/',
     siteUrl: 'https://tienlen.org',
-    gaTrackingId: null,
+    gaTrackingId: process.env.GOOGLE_ANALYTICS_PROPERTY_ID,
     trailingSlash: false,
   },
   header: {
