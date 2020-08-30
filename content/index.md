@@ -91,7 +91,7 @@ Every once in a blue moon, actually much less often, something extraordinary hap
 
 However, on one fateful evening `2020-08-23T12:53:16-05:00` the acclaimed Dick Everhard ascended to such an occasion with the 3 of spades no less!
 
-![dragon](./images/dragon.png)
+![dragon](./dragon.png)
 
 Just to recap, he started the game with the 3 of Spades in a 12 card straight with Ace of Diamonds high. That means the only thing that could have possibly beat it was another 12 card straight with the Ace of Hearts. At this point, statistically this *feels* more possible than normal - I mean given the odds that one person has a massive straight on, that eliminates a corresponding pattern of remaining cards, seemingly increasing the chances of others also having raging straights. And in fact anecdotal evidence supports this as well known liars report having almost had the ability to defeat this with nearly equally engorged straights. These meaningful correlations in random data are reminiscent of a global consciousness. However, we'll never know because at the time Mr. Lahey was drunk and asleep at the wheel and unable to perform any meaningful action aside from wait out the 42-second auto-knock period.
 
