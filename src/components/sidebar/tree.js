@@ -47,6 +47,11 @@ const calculateTreeData = edges => {
 
       const existingItem = prevItems.find(({ label }) => label === parts[slicedLength]);
 
+      // super hacky 🤮 but the titles are too tightly bound to h1 and side nav for index conventions
+      if (title === "Tien Len Rulez") {
+        title = "Rules"
+      }
+
       if (existingItem) {
         existingItem.url = slug;
         existingItem.title = title;

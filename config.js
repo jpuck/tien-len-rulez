@@ -24,6 +24,8 @@ const config = {
   },
   sidebar: {
     forcedNavOrder: [
+      '/index',
+      '/beer',
     ],
     collapsedNav: [
     ],

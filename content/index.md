@@ -1,6 +1,6 @@
 ---
 title: "Tien Len Rulez"
-metaTitle: "Tien Len Fayar Rulez"
+metaTitle: "Tien Len Rulez"
 metaDescription: "Tien Len Fayar is an interesting derivative"
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Tien Len Beer"
-metaTitle: "Beer"
+title: "Beer"
+metaTitle: "Tien Len Beer"
 metaDescription: "A super special brew just for you know who"
 ---
 
