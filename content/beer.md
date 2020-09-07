@@ -66,12 +66,10 @@ On or around 12:00 Z, Septembeer 6th, great gaseous clouds were noted issuing fo
 
 What follows is a glimpse into the past and visions of a possible future:
 
-`Recipe: Tien Len AG
-Brewer: 
-Asst Brewer: 
+```
+Recipe: Tien Len AG
 Style: American IPA
-TYPE: All Grain
-Taste: (30.0) 
+TYPE: Mostly Grain
 
 Recipe Specifications
 --------------------------
@@ -116,7 +114,14 @@ Total Grain Weight: 25 lbs
 ----------------------------
 Name              Description                             Step Temperat Step Time     
 Saccharification  Add 58.60 qt of water at 163.6 F        150.8 F       70 min        
-Mash Out          Add 0.00 qt of water and heat to 168.0  168.0 F       1 min`
+Mash Out          Add 0.00 qt of water and heat to 168.0  168.0 F       1 min
+
+OG: 1.058
+10 gallons wort collected
+
+Pitched direct 2 packets US-05 @ 1543 local time
+
+```
 
 ## We Bought the Ticket, Now Finish the Ride
 
