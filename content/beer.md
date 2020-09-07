@@ -66,8 +66,7 @@ On or around 12:00 Z, Septembeer 6th, great gaseous clouds were noted issuing fo
 
 What follows is a glimpse into the past and visions of a possible future:
 
-BeerSmith 2 Recipe Printout - http://www.beersmith.com
-Recipe: Tien Len AG
+`Recipe: Tien Len AG
 Brewer: 
 Asst Brewer: 
 Style: American IPA
@@ -117,7 +116,7 @@ Total Grain Weight: 25 lbs
 ----------------------------
 Name              Description                             Step Temperat Step Time     
 Saccharification  Add 58.60 qt of water at 163.6 F        150.8 F       70 min        
-Mash Out          Add 0.00 qt of water and heat to 168.0  168.0 F       1 min
+Mash Out          Add 0.00 qt of water and heat to 168.0  168.0 F       1 min`
 
 ## We Bought the Ticket, Now Finish the Ride
 
