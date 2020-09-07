@@ -65,7 +65,11 @@ Bombs are either 4 of a kind or more (when playing with multiple decks), or a st
 
 A single 2 is beaten by a 4 of a kind, or a paired straight of 3 consecutive cards.
 
+![a single bomb](./bomb.png)
+
 A pair of 2’s is beaten by a 5 of a kind (multiple decks), or a paired straight of 4 consecutive cards. Three 2’s are beaten by 6 of a kind, or a paired straight of 5 consecutive cards, and so on.
+
+![a double bomb](./double-bomb.png)
 
 Bombs can be played as an opening play. Bombs can be beaten by a higher bomb of that same bomb type, even if the bomb was used to beat a 2(‘s).
 
