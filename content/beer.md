@@ -129,7 +129,7 @@ The prototype reflectix wrap is helping the cold water loop keep all passengers 
 
 ![right on the money, baby](./beer/right-on-the-money.png)
 
-Temps are nice and stable. The blue line shows when the cold water pump was running. It turned off about an hour before this screenshot:
+Temps are nice and stable. The blue line shows when the cold water pump was running. It turned off about 45 minutes before this screenshot:
 
 ![stability, serenity](./beer/stable-temps.png)
 
