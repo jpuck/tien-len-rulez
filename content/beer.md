@@ -123,11 +123,11 @@ Mash Out          Add 0.00 qt of water and heat to 168.0  168.0 F       1 min
 
 The prototype reflectix wrap is helping the cold water loop keep all passengers at a comfortable 68.0F, approximately 13 degrees below ambient, and dead-on the temp setpoint
 
-![right on the money, baby](.beer/right-on-the-money.jpg)
+![right on the money, baby](./beer/right-on-the-money.jpg)
 
 Temps are nice and stable. The blue line shows when the cold water pump was running. It turned off about an hour before this screenshot:
 
-![stability, serenity](.beer/stable-temps.jpg)
+![stability, serenity](./beer/stable-temps.jpg)
 
 ABV should fall in the 6.0-6.5% range.
 
