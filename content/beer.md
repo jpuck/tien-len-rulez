@@ -11,57 +11,6 @@ Immediately, forces of good were dispatched to convene ingredients for a work of
 
 ![hahaha](./beer/2020-09-05-brewhahahaha.jpeg)
 
-## Recipe
-
-![recipe](./beer/2020-09-05-recipe.jpeg)
-
-*American* Amber Ale? `Steep/Whirlpool`?
-
-![maybe](./beer/maybe.gif)
-
-> Maybe 😉
-
-## Cryo Hops
-
-The purest sweet resiny sensational goodness... 🤤
-
-![cryo hops](./beer/2020-09-05-cryo-hops.jpeg)
-
-## Wanna Cook?
-
-![you're god damn right](./beer/god-damn-right.gif)
-![the cook](./beer/2020-09-05-the-cook.jpeg)
-
-## Warning
-
-Do not exceed, restrict, and/or run with expectations that this beer contains trace amounts of/and/or causes the following side effects:
-
-* awesomeness
-* ancient Eureka Shpongle spores
-* Khruangbin
-
-![warning](./beer/2020-09-05-warning.jpeg)
-
-## Pitch Dat Yeast
-
-![pitch dat yeast](./beer/2020-09-05-pitch-dat-yeast.jpeg)
-
-## Bitter Sweet Wort
-
-A richly tantalizing and ominous preview of two glorious flavor profile echelons.
-_sip with caution_
-
-![wort](./beer/2020-09-05-420-wort.jpeg)
-
-## Brace Yourself
-
-![Tien Len AG is coming](./beer/brace-yourself.jpg)
-![here it sits](./beer/2020-09-05-here-it-sits.jpeg)
-
-## Happy Yeast
-
-On or around 12:00 Z, Septembeer 6th, great gaseous clouds were noted issuing forth from the fermenter blowoff tube, placing the upper bound on fermentation lag time at 15 hours. As of this writing (T+45 hours since pitch) the summated yeast belches are a near constant rolling gurgle. To step inside the brew shed is to dive into a miasmal space of caramel vapor and hop gas.
-
 ## Behold the Knowledge
 
 What follows is a glimpse into the past and visions of a possible future:
@@ -120,8 +69,43 @@ OG: 1.058
 10 gallons wort collected
 
 Pitched direct 2 packets US-05 @ 1543 local time
-
 ```
+
+## Cryo Hops
+
+The purest sweet resiny sensational goodness... 🤤
+
+![cryo hops](./beer/2020-09-05-cryo-hops.jpeg)
+
+## Wanna Cook?
+
+![you're god damn right](./beer/god-damn-right.gif)
+![the cook](./beer/2020-09-05-the-cook.jpeg)
+
+## Warning
+
+Do not exceed, restrict, and/or run with expectations that this beer contains trace amounts of/and/or causes the following side effects:
+
+* awesomeness
+* ancient Eureka Shpongle spores
+* Khruangbin
+
+![warning](./beer/2020-09-05-warning.jpeg)
+
+## Pitch Dat Yeast
+
+![pitch dat yeast](./beer/2020-09-05-pitch-dat-yeast.jpeg)
+
+### Happy Yeast
+
+On or around 12:00 Z, Septembeer 6th, great gaseous clouds were noted issuing forth from the fermenter blowoff tube, placing the upper bound on fermentation lag time at 15 hours. As of this writing (T+45 hours since pitch) the summated yeast belches are a near constant rolling gurgle. To step inside the brew shed is to dive into a miasmal space of caramel vapor and hop gas.
+
+## Bitter Sweet Wort
+
+A richly tantalizing and ominous preview of two glorious flavor profile echelons.
+_sip with caution_
+
+![wort](./beer/2020-09-05-420-wort.jpeg)
 
 ## We Bought the Ticket, Now Finish the Ride
 
@@ -139,3 +123,8 @@ TBD:
 * Check SG daily when airlock activity slows, probably starting on 9/10 or 9/11
 * After 2 identical SG readings dump yeast cake
 * Dry hop with the sweet resin cryo pellets
+
+## Brace Yourself
+
+![Tien Len AG is coming](./beer/brace-yourself.jpg)
+![here it sits](./beer/2020-09-05-here-it-sits.jpeg)
