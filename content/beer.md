@@ -4,7 +4,13 @@ metaTitle: "Tien Len Beer"
 metaDescription: "A super special brew just for you know who"
 ---
 
-## Coming Roctober 2020 🍻
+![proletariat label](./beer/proletariat.jpg)
+
+Based on the remarkable true story, "Proletariat" chronicles the spectacular journey of the 2020 Labor Day weekend.
+
+Homeboy and master brewer Julian (Jooolian) agrees to take over his ale'ing buddy's Arkansas-based Brew Commission, despite his lack of horse-racing knowledge. Against all odds, 6 cards of little value alone - with the help of hops Citra, Simcoe, and Mosaic - unite to form a bomb capable of destroying the strongest 2, ultimately fostering what may be the greatest beer of all time.
+
+## Coming Roctober 17, 2020 🍻
 
 It was authoritatively decreed at `2020-08-29T05:57:00-05:00` that 1.5 pounds of hops shall burst from 10 gallons.
 Immediately, forces of good were dispatched to convene ingredients for a work of love converging on Saturday, Septembeer 5<sup>th</sup> which will henceforth always be remembeered as **Labor Day**.
