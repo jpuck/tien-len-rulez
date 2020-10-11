@@ -31,6 +31,7 @@ const config = {
     ],
     links: [
       { text: 'Play', link: 'https://play.tienlen.org' },
+      { text: 'Hangouts', link: 'https://hangouts.tienlen.org' },
       { text: 'Leaderboard', link: 'https://leaderboard.tienlen.org' },
     ],
     frontline: false,
