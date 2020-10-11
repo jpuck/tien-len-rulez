@@ -89,7 +89,7 @@ If a player is caught cheating, that player has to take a shot.
 
 Typically most New Orleanians will take a "courtesy shot" anytime someone else takes a shot, because they don’t want to miss out on the fun.
 
-### Dragons
+### 🐲 Dragons
 
 Every once in a blue moon, actually much less often, something extraordinary happens. What do you think the odds are of getting a 13 card straight? The answer is *literally* incalculable™ so don't even try. 🤓 It's *literally* impossible™ because 2's are not allowed in straights.
 
